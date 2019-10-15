@@ -6,7 +6,7 @@ date: 2019-10-15T18:44:27.652Z
 img_src: /images/whyuseit.png
 menus:
   main:
-    title: Why
+    title: ''
 template: page
 ---
 ## Why should you use this?
