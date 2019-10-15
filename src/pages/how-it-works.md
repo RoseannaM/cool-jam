@@ -4,7 +4,7 @@ img_src: /images/how-this-all-works.png
 menus:
   main:
     title: How
-    weight: 1
+    weight: 2
 template: page
 ---
 ## How does this all work?
