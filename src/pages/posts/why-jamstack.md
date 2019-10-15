@@ -18,4 +18,4 @@ No design experience? Well that's no problem because Stack Bit offers a whole ho
 
 No security experts to handle auth? Just deploy and rely on third party API's to manage user information and authentication.
 
-Need to manage constantly updating content? It just got a lot easier. Changes and deployments with the click of a button. Leverage a cms system to manage content with ease.
+Need to manage constantly updating content? It just got a lot easier. Changes and deployments with the click of a button. Leverage a CMS system to manage content with ease.
