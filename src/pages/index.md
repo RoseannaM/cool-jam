@@ -3,7 +3,6 @@ title: Home
 header: >-
   This is a demonstrative <a href="https://jamstack.org/">JAMstack </a> site
   built with <a href="https://www.stackbit.com">Stackbit</a>. It's using <a
-  href="https://www.contentful.com/">Contentful</a>,  <a
   href="https://www.netlify.com/">Netlify </a> and <a
   href="https://github.com">Github.</a> 
 
